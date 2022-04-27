@@ -2,9 +2,6 @@ import React from 'react';
 import { VERSION } from '@twilio/flex-ui';
 import { FlexPlugin } from '@twilio/flex-plugin';
 
-//import CustomTaskListContainer from './components/CustomTaskList/CustomTaskList.Container';
-//import reducers, { namespace } from './states';
-
 import { injectGlobal } from 'react-emotion';
 
 injectGlobal`
