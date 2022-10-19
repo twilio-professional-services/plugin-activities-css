@@ -9,8 +9,7 @@ Twilio Flex Plugins allow you to customize the appearance and behavior of [Twili
 This plugin updates the styling of the User Activities Menu, adding vertical scrolling for long lists of Activities.
 
 ## Notice
-
-This plugin is no longer maintained as of September 23, 2022.  Work to support this feature in Flex v2 has been transitioned to the [Twilio Professional Services Flex Project Template](https://github.com/twilio-professional-services/twilio-proserv-flex-project-template/tree/main/plugin-flex-ts-template-v2/src/feature-library/scrollable-activities).
+This plugin is no longer maintained as of October 17th, 2022. Work to maintain this feature in Flex V2 has been moved over to the [Flex Project Template](https://github.com/twilio-professional-services/twilio-proserv-flex-project-template) where it is an [optional feature](https://github.com/twilio-professional-services/twilio-proserv-flex-project-template/tree/main/plugin-flex-ts-template-v2/src/feature-library/scrollable-activities/README.md)
 
 ## Setup
 
