@@ -1,15 +1,12 @@
-<a  href="https://www.twilio.com">
-<img  src="https://static0.twilio.com/marketing/bundles/marketing/img/logos/wordmark-red.svg"  alt="Twilio"  width="250"  />
-</a>
+# Notice - Legacy Code
+
+**This plugin is no longer maintained. An updated version of the plugin is available as part of the customizable [Flex Project Template](https://github.com/twilio-professional-services/flex-project-template), where it is an optional feature.**
 
 # Twilio Flex Plugin - Activities Menu Styling 
 
 Twilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the APIs, check out our [Flex documentation](https://www.twilio.com/docs/flex).
 
 This plugin updates the styling of the User Activities Menu, adding vertical scrolling for long lists of Activities.
-
-## Notice
-This plugin is no longer maintained as of October 17th, 2022. Work to maintain this feature in Flex V2 has been moved over to the [Flex Project Template](https://github.com/twilio-professional-services/twilio-proserv-flex-project-template) where it is an [optional feature](https://github.com/twilio-professional-services/twilio-proserv-flex-project-template/tree/main/plugin-flex-ts-template-v2/src/feature-library/scrollable-activities/README.md)
 
 ## Setup
 
